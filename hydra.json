@@ -1,6 +1,6 @@
 {
   "hydra": {
-    "panel_latest": "0.1.0",
+    "panel_latest": "0.1.1",
     "daemon_latest": "0.1.0-beta",
     "codename": "Daulan Con"
   }
